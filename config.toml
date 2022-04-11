@@ -13,7 +13,7 @@ paginate = 3
 [params]
   google_analytics_id = "G-YKYB87SY06"
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@Vic.HugoAmaya"
+  twitter_handle = "@Vic_HugoAmaya"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
