@@ -1,4 +1,4 @@
-baseURL = " https://victor-hugo-amaya.github.io/my_launchx_blog/"
+baseURL = "https://victor-hugo-amaya.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Vic.HugoAmaya"
 theme = "hugo-winston-theme"
