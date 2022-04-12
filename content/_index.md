@@ -7,9 +7,7 @@ Hola ✌️  soy el explorer **Víctor Hugo** y este es mi blog personal donde c
 
 Te invito a conocer mis aprendizajes y leer mis experiencias. 🚀
 
-<details>
-<summary> 📚 Lo que he aprendido en Launch X: </summary>
-  
+📚 Lo que he aprendido en Launch X:
   - Git y GitHub
   - Prework de Herramientas de Desarrollo Web en Windows 10
   - Estandar y Frameworks React y Angular para Front-End
