@@ -1,6 +1,6 @@
 ---
 title: "La Cultura en el Desarrollo de Software"
-date: 08/03/2022 T18:16:21-06:00
+date: 2022-03-08 T18:16:21-06:00
 description: 'Este es mi primer post relacionado con la cultura que existe en Desarrollo Web y como esta influye en la sociedad.'
 ---
 
